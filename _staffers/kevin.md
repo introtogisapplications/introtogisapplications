@@ -1,9 +1,8 @@
 ---
-name: Kevin Lin
+name: Clayton McNamara
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: clayton.mcnamara1@gmail.com
+website: https://claytonmcnamara.github.io
+photo: clayton.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
