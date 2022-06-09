@@ -1,8 +1,7 @@
 ---
-title: Week 0 Announcement
+title: New Course Announcement
 week: 0
-date: 2019-04-01
+date: 2022-06-09
 ---
 
-Hello world!
-{: .fs-5 }
+Welcome to Intro to GIS Applications!
