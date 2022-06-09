@@ -10,6 +10,6 @@ seo:
 
 # Welcome to Intro to GIS Applications!
 
-This website hosts an introductory level class focused on the theoretical foundations of GIS and its applications. More information about the course designers can be found [here](staff.md).
+This website hosts an introductory level class focused on the theoretical foundations of GIS and its applications. More information about the course designers can be found [here](about.md).
 
 ## So what is GIS anyway?
