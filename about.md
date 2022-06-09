@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+nav_exclude: true
 description: A listing of all the course staff members.
 ---
 # About
