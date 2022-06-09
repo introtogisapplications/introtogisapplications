@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
-description: >-
-    Course policies and information.
+title: Chapter 1
+description: 
 ---
 
-# About
+# Chapter 1
 {:.no_toc}
 
 ## Table of contents
